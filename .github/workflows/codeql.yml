@@ -15,10 +15,7 @@ on:
   push:
     branch: 
       - main
-  pull_request:
-    branch: 
-      - main
-  schedules:
+  schedule:
     - cron: "0 0 * * 6"
 
 jobs:
