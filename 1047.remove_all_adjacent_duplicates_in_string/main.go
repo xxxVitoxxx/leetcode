@@ -1,13 +1,14 @@
 package main
 
 func removeDuplicates(s string) string {
+	bytes := []byte(s)
 	stack := make([]byte, 0, len(s))
-	for i := range s {
+	for _, b := range bytes {
 		l := len(stack)
-		if l > 0 && stack[l-1] == s[i] {
+		if l > 0 && stack[l-1] == b {
 			stack = stack[:l-1]
 		} else {
-			stack = append(stack, s[i])
+			stack = append(stack, b)
 		}
 	}
 	return string(stack)
