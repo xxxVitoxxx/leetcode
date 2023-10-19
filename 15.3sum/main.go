@@ -90,3 +90,37 @@ func threeSum2(nums []int) [][]int {
 	}
 	return res
 }
+
+// use two pointers
+func threeSum3(nums []int) [][]int {
+	sort.Ints(nums)
+	var res [][]int
+	for first := 0; first < len(nums)-2; first++ {
+		if first > 0 && nums[first-1] == nums[first] {
+			continue
+		}
+
+		second, third := first+1, len(nums)-1
+		for second < third {
+			current := nums[first] + nums[second] + nums[third]
+			if current < 0 {
+				second++
+			} else if current > 0 {
+				third--
+			} else {
+				res = append(res, []int{nums[first], nums[second], nums[third]})
+				second++
+				third--
+
+				for second < third && nums[second-1] == nums[second] {
+					second++
+				}
+
+				for second < third && nums[third] == nums[third-1] {
+					third--
+				}
+			}
+		}
+	}
+	return res
+}
