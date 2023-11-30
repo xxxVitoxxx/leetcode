@@ -46,3 +46,36 @@ func getSumAbsoluteDifferences2(nums []int) []int {
 	}
 	return ans
 }
+
+func getSumAbsoluteDifferences3(nums []int) []int {
+	var diffSum int
+	for _, num := range nums {
+		diffSum += num - nums[0]
+	}
+
+	ans := make([]int, len(nums))
+	ans[0] = diffSum
+	for i := 1; i < len(nums); i++ {
+		delta := nums[i] - nums[i-1]
+		diffSum += delta*i - delta*(len(nums)-i)
+		ans[i] = diffSum
+	}
+	return ans
+}
+
+func getSumAbsoluteDifferences4(nums []int) []int {
+	var sum int
+	for _, num := range nums {
+		sum += num
+	}
+
+	ans := make([]int, len(nums))
+	var prev int
+	for i := 0; i < len(nums); i++ {
+		delta := nums[i] - prev
+		prev = nums[i]
+		sum += delta * (2*i - (len(nums)))
+		ans[i] = sum
+	}
+	return ans
+}

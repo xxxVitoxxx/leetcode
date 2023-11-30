@@ -29,4 +29,18 @@ func TestGetSumAbsoluteDifferences(t *testing.T) {
 			assert.Equal(t, tt.output, res)
 		})
 	}
+
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			res := getSumAbsoluteDifferences3(tt.input)
+			assert.Equal(t, tt.output, res)
+		})
+	}
+
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			res := getSumAbsoluteDifferences4(tt.input)
+			assert.Equal(t, tt.output, res)
+		})
+	}
 }
