@@ -49,3 +49,28 @@ func getMinIndex(m map[uint8]int) int {
 	}
 	return min
 }
+
+func lengthOfLongestSubstringTwoDistinct3(s string) int {
+	var ans int
+	count := make([]int, 128)
+	left, right, dist := 0, 0, 0
+	for ; right < len(s); right++ {
+		count[s[right]]++
+		if count[s[right]] == 1 {
+			dist++
+		}
+
+		for dist > 2 {
+			count[s[left]]--
+			if count[s[left]] == 0 {
+				dist--
+			}
+			left++
+		}
+
+		if right-left+1 > ans {
+			ans = right - left + 1
+		}
+	}
+	return ans
+}
