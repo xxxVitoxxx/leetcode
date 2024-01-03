@@ -38,7 +38,7 @@ func makeGood2(s string) string {
 	return string(bytes)
 }
 
-// use recursive
+// use recursion
 func makeGood3(s string) string {
 	if len(s) < 2 {
 		return s
