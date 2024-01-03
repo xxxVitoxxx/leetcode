@@ -14,7 +14,7 @@ func removeDuplicates(s string) string {
 	return string(stack)
 }
 
-// use recursive
+// use recursion
 func removeDuplicates2(s string) string {
 	for i := 0; i < len(s)-1; i++ {
 		if s[i] == s[i+1] {

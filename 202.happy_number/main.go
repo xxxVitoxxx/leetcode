@@ -22,7 +22,7 @@ func isHappy(n int) bool {
 	return n == 1
 }
 
-// use recursive
+// use recursion
 // when you calculate the sum of the squares of its digits from 0 to 9,
 // you will eventually find that only 1 and 7 result in 1.
 func isHappy2(n int) bool {
