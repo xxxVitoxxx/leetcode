@@ -79,6 +79,7 @@
 |415|[Add Strings](https://leetcode.com/problems/add-strings)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/415.add_strings/main.go)|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/437.path_sum_III/main.go)|
 |443|[String Compression](https://leetcode.com/problems/string-compression)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/443.string_compression/main.go)|
+|450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst)|$\color{orange}{\textsf{Medium}}$|[go](https://github.com/xxxVitoxxx/leetcode/blob/main/450.delete_node_in_a_bst/main.go)|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/455.assign_cookies/main.go)|
 |457|[Circular Array Loop](https://leetcode.com/problems/circular-array-loop)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/457.circular_array_loop/main.go)|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/496.next_greater_element_I/main.go)|
