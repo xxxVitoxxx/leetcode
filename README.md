@@ -35,7 +35,7 @@
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/88.merge_sorted_array/main.go)|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|$\color{green}{\textsf{Easy}}$||
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)|$\color{orange}{\textsf{Medium}}$||
-|100|[Same Tree](https://leetcode.com/problems/same-tree)|$\color{green}{\textsf{Easy}}$||
+|100|[Same Tree](https://leetcode.com/problems/same-tree)|$\color{green}{\textsf{Easy}}$|[GO](https://github.com/xxxVitoxxx/leetcode/blob/main/100.same_tree/main.go)|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)|$\color{green}{\textsf{Easy}}$||
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/104.maximum_depth_of_binary_tree/main.go)|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)|$\color{green}{\textsf{Easy}}$||
