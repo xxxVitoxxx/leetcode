@@ -62,8 +62,7 @@
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/219.contains_duplicate_II/main.go)|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)|$\color{green}{\textsf{Easy}}$||
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/234.palindrome_linked_list/main.go)|
-|236|[Lowest Common Ancestor of a Binary tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/236.lowest_common_ancestor_of_a_bin
-ary_tree/main.go)|
+|236|[Lowest Common Ancestor of a Binary tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/236.lowest_common_ancestor_of_a_binary_tree/main.go)|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/238.product_of_array_except_self/main.go)|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/242.valid_anagram/main.go)|
 |246|[Strobogrammatic Number :lock:](https://leetcode.com/problems/strobogrammatic-number)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/246.strobogrammatic_number/main.go)|
@@ -124,6 +123,7 @@ ary_tree/main.go)|
 |1099|[Two Sum Less Than K :lock:](https://leetcode.com/problems/two-sum-less-than-k)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1099.two_sum_less_than_k/main.go)|
 |1120|[Maximum Average Subtree :lock:](https://leetcode.com/problems/maximum-average-subtree)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1120.maximum_average_subtree/main.go)|
 |1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1160.find_words_that_can_be_formed_by_character/main.go)|
+|1161|[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1161.maximum_level_sum_of_a_binary_tree/main.go)|
 |1176|[Diet Plan Performance :lock:](https://leetcode.com/problems/diet-plan-performance)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1176.diet_plan_performance/main.go)|
 |1372|[Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1372.longest_zigzag_path_in_a_binary_tree/main.go)|
 |1385|[Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1385.find_the_distance_value_between_two_arrays/main.go)|
