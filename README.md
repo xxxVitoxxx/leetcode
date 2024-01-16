@@ -60,6 +60,7 @@
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/206.reverse_linked_list/main.go)|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/217.contains_duplicate/main.go)|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/219.contains_duplicate_II/main.go)|
+|222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/222.count_complete_tree_nodes/main.go)|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)|$\color{green}{\textsf{Easy}}$||
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/234.palindrome_linked_list/main.go)|
 |236|[Lowest Common Ancestor of a Binary tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/236.lowest_common_ancestor_of_a_binary_tree/main.go)|
