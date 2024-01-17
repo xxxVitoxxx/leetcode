@@ -37,6 +37,7 @@
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)|$\color{orange}{\textsf{Medium}}$||
 |100|[Same Tree](https://leetcode.com/problems/same-tree)|$\color{green}{\textsf{Easy}}$|[GO](https://github.com/xxxVitoxxx/leetcode/blob/main/100.same_tree/main.go)|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)|$\color{green}{\textsf{Easy}}$||
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/102.binary_tree_level_order_traversal/main.go)|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/104.maximum_depth_of_binary_tree/main.go)|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)|$\color{green}{\textsf{Easy}}$||
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|$\color{green}{\textsf{Easy}}$||
