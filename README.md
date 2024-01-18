@@ -77,6 +77,7 @@
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/345.reverse_vowels_of_a_string/main.go)|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/349.intersection_of_two_arrays/main.go)|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/350.intersection_of_two_arrays_II/main.go)|
+|374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/374.guess_number_higher_or_lower/main.go)|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/392.is_subsequence/main.go)|
 |394|[Decode String](https://leetcode.com/problems/decode-string)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/394.decode_string/main.go)|
 |395|[Longest Substring with At Least K Repeatin](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/395.longest_substring_with_at_least_K_repeating_characters/main.go)|
