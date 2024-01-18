@@ -34,7 +34,7 @@
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|$\color{green}{\textsf{Easy}}$||
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/88.merge_sorted_array/main.go)|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|$\color{green}{\textsf{Easy}}$||
-|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)|$\color{orange}{\textsf{Medium}}$||
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/98.validate_binary_search_tree/main.go)|
 |100|[Same Tree](https://leetcode.com/problems/same-tree)|$\color{green}{\textsf{Easy}}$|[GO](https://github.com/xxxVitoxxx/leetcode/blob/main/100.same_tree/main.go)|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)|$\color{green}{\textsf{Easy}}$||
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/102.binary_tree_level_order_traversal/main.go)|
