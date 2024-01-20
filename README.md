@@ -64,6 +64,7 @@
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/222.count_complete_tree_nodes/main.go)|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)|$\color{green}{\textsf{Easy}}$||
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/226.invert_binary_tree/main.go)|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/230.Kth_smallest_element_in_a_bst/main.go)|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/234.palindrome_linked_list/main.go)|
 |236|[Lowest Common Ancestor of a Binary tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/236.lowest_common_ancestor_of_a_binary_tree/main.go)|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/238.product_of_array_except_self/main.go)|
