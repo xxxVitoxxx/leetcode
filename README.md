@@ -146,6 +146,7 @@
 |1688|[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1688.count_of_matches_in_tournament/main.go)|
 |1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1732.find_the_highest_altitude/main.go)|
 |1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1768.merge_strings_alternately/main.go)|
+|1791|[Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1791.find_center_of_star_graph/main.go)|
 |1826|[Faulty Sensor :lock:](https://leetcode.com/problems/faulty-sensor)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1826.faulty_sensor/main.go)|
 |2000|[Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/2000.reverse_prefix_of_word/main.go)|
 |2095|[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/2095.delete_the_middle_node_of_a_linked_list/main.go)|
