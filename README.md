@@ -108,6 +108,7 @@
 |735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/735.asteroid_collision/main.go)|
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/821.shortest_distance_to_a_character/main.go)|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/832.flipping_an_image/main.go)|
+|841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/841.keys_and_rooms/main.go)|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/844.backspace_string_compare/main.go)|
 |872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/872.leaf-similar_trees/main.go)|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/876.middel_of_the_linked_list/main.go)|
