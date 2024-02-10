@@ -94,6 +94,7 @@
 |457|[Circular Array Loop](https://leetcode.com/problems/circular-array-loop)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/457.circular_array_loop/main.go)|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/496.next_greater_element_I/main.go)|
 |541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/541.reverse_string_II/main.go)|
+|547|[Number of Provinces](https://leetcode.com/problems/number-of-provinces)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/547.number_of_provinces/main.go)|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/557.reverse_words_in_a_string_III/main.go)|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/605.can_place_flowers/main.go)|
 |624|[Maximum Distance in Arrays :lock:](https://leetcode.com/problems/maximum-distance-in-arrays)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/624.maximum_distance_in_arrays/main.go)|
