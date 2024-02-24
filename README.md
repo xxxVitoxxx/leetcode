@@ -84,6 +84,7 @@
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/392.is_subsequence/main.go)|
 |394|[Decode String](https://leetcode.com/problems/decode-string)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/394.decode_string/main.go)|
 |395|[Longest Substring with At Least K Repeatin](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/395.longest_substring_with_at_least_K_repeating_characters/main.go)|
+|399|[Evaluate Division](https://leetcode.com/problems/evaluate-division)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/399.evaluate_division/main.go)|
 |408|[Valid Word Abbreviation :lock:](https://leetcode.com/problems/valid-word-abbreviation)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/408.valid_word_abbreviation/main.go)|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/412.fizz_buzz/main.go)|
 |415|[Add Strings](https://leetcode.com/problems/add-strings)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/415.add_strings/main.go)|
