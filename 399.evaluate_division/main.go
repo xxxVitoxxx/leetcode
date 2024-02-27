@@ -69,8 +69,8 @@ func find(groupID string, groups map[string]Group) (string, float64) {
 
 	grp := groups[groupID]
 	if grp.group != groupID {
-		parent, parentWeight := find(grp.group, groups)
-		groups[groupID] = Group{parent, parentWeight * grp.weight}
+		parentGroup, parentWeight := find(grp.group, groups)
+		groups[groupID] = Group{parentGroup, parentWeight * grp.weight}
 	}
 
 	return groups[groupID].group, groups[groupID].weight
@@ -80,10 +80,10 @@ func find(groupID string, groups map[string]Group) (string, float64) {
 // in addition, it needs to update the weight of the dividend variable accordingly, so that the ratio between
 // the dividend and divisor is respected.
 func union(dividend, divisor string, quotient float64, groups map[string]Group) {
-	dividendGroup, _ := find(dividend, groups)
-	divisorGroup, _ := find(divisor, groups)
+	dividendGroup, dividendWeight := find(dividend, groups)
+	divisorGroup, divisorWeight := find(divisor, groups)
 	if dividendGroup != divisorGroup {
-		groups[dividendGroup] = Group{divisorGroup, quotient}
+		groups[dividendGroup] = Group{divisorGroup, divisorWeight * quotient / dividendWeight}
 	}
 }
 

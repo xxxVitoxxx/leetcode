@@ -48,6 +48,13 @@ func TestCalcEquation(t *testing.T) {
 			[][]string{{"a", "e"}, {"a", "d"}, {"b", "e"}, {"e", "c"}},
 			[]float64{60, 30, 30, 0.1},
 		},
+		{
+			"example6",
+			[][]string{{"a", "b"}, {"a", "c"}},
+			[]float64{2, 3},
+			[][]string{{"a", "c"}, {"b", "c"}, {"c", "a"}},
+			[]float64{3, 1.5, 0.3333333333333333},
+		},
 	}
 
 	for _, tt := range tests {
