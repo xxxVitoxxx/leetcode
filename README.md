@@ -75,6 +75,7 @@
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version)|$\color{green}{\textsf{Easy}}$||
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/283.move_zeroes/main.go)|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/328.odd_even_linked_list/main.go)|
+|334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/34.increasing_triplet_subsequence/main.go)|
 |340|[Longest Substring with At Most K Distinct Characters :lock:](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/340.longest_substring_with_at_most_k_distinct_characters/main.go)|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/344.reverse_string/main.go)|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/345.reverse_vowels_of_a_string/main.go)|
