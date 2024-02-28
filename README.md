@@ -101,6 +101,7 @@
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/605.can_place_flowers/main.go)|
 |624|[Maximum Distance in Arrays :lock:](https://leetcode.com/problems/maximum-distance-in-arrays)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/624.maximum_distance_in_arrays/main.go)|
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/643.maximum_average_subarray_I/main.go)|
+|649|[Dota2 Senate](https://leetcode.com/problems/dota2-senate)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/649.dota2_senate/main.go)|
 |653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/653.two_sum_IV-input_is_a_BST/main.go)|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/680.valid_palindrome_II/main.go)|
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/682.baseball_game/main.go)|
