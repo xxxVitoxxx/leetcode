@@ -1,6 +1,6 @@
 # Solution
 
-## Queue
+## Two Queue
 建立兩個 queue 分別儲存兩個政黨的 index ，讓兩邊比較其第一位參議員的 index 大小，比較大的一方會被禁止投票權，勝利的一方會將其 index 加上原先 senate 長度並加到所屬政黨的 queue 中繼續參加下一輪的比較，只要兩邊政黨還有參議員就要一直互相比較，直到某一方政黨的參議員都被禁止投票。  
 
 ### 比較方式
@@ -27,3 +27,7 @@ dire queue    = [5]
 
 because all senators of radiant is ban, so dire party is victory.
 ```
+
+## One Queue
+
+與 Two Queue 概念一樣，只是將兩個政黨的參議員放在同一個 queue 中，先取出 queue[0] 的參議員，在檢查 queue 中是否有其他參議員，如果有就禁止他（將他從 queue 中移除），直到其中一方的參議員都被禁止。  
