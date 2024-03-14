@@ -116,6 +116,7 @@
 |841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/841.keys_and_rooms/main.go)|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/844.backspace_string_compare/main.go)|
 |872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/872.leaf-similar_trees/main.go)|
+|875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/875.koko_eating_bananas/main.go)|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/876.middel_of_the_linked_list/main.go)|
 |897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree)|$\color{green}{\textsf{Easy}}$||
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/905.sort_array_by_parity/main.go)|
