@@ -8,13 +8,13 @@ import "math"
 func minEatingSpeed(piles []int, h int) int {
 	left, right := 1, maxElement(piles)
 	for left < right {
-		hour := 0
+		spendHour := 0
 		mid := (left + right) / 2
 		for _, pile := range piles {
-			hour += int(math.Ceil(float64(pile) / float64(mid)))
+			spendHour += int(math.Ceil(float64(pile) / float64(mid)))
 		}
 
-		if hour <= h {
+		if spendHour <= h {
 			right = mid
 		} else {
 			left = mid + 1
