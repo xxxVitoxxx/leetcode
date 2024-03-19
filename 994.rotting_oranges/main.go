@@ -1,5 +1,14 @@
 package main
 
+// bfs
+// time complexity: O(n * m) where n * m is the size of the grid
+// space complexity: O(n * m) in the worst case, the grid is filled with rotten oranges.
+// as a result, the queue would the initialized with all the cells in the grid.
+
+// normally for BFS, the main space complexity lies in process rather than the initialization.
+// for instance, for a BFS traversal in a binary tree, at any given moment,
+// the queue would hold no more than 2 levels of tree nodes.
+// therefore, the space complexity of BFS traversal in a binary tree would depend on the width of the input tree.
 func orangesRotting(grid [][]int) int {
 	row, col := len(grid), len(grid[0])
 	queue := [][]int{}
@@ -41,4 +50,63 @@ func orangesRotting(grid [][]int) int {
 	}
 
 	return min
+}
+
+// in-place bfs
+// time complexity: O(n * m)
+// space complexity: O(1)
+func orangesRotting2(grid [][]int) int {
+	moreToRot := true
+	time := 2
+	for moreToRot {
+		moreToRot = rottenProcess(grid, time)
+		if moreToRot {
+			time++
+		}
+	}
+
+	if allRotten(grid) {
+		return time - 2
+	}
+	return -1
+}
+
+func rottenProcess(grid [][]int, time int) bool {
+	var moreToRot bool
+	for i := 0; i < len(grid); i++ {
+		for j := 0; j < len(grid[0]); j++ {
+			if grid[i][j] == time {
+				moreToRot = neighborToRotten(grid, time+1, i, j) || moreToRot
+			}
+		}
+	}
+	return moreToRot
+}
+
+func neighborToRotten(grid [][]int, time, row, col int) bool {
+	var moreToRot bool
+	directions := [][]int{{1, 0}, {-1, 0}, {0, 1}, {0, -1}}
+	for _, d := range directions {
+		moreToRot = rottenIfFresh(grid, time, row+d[0], col+d[1]) || moreToRot
+	}
+	return moreToRot
+}
+
+func rottenIfFresh(grid [][]int, time, row, col int) bool {
+	if row >= 0 && row < len(grid) && col >= 0 && col < len(grid[0]) && grid[row][col] == 1 {
+		grid[row][col] = time
+		return true
+	}
+	return false
+}
+
+func allRotten(grid [][]int) bool {
+	for i := 0; i < len(grid); i++ {
+		for j := 0; j < len(grid[0]); j++ {
+			if grid[i][j] == 1 {
+				return false
+			}
+		}
+	}
+	return true
 }
