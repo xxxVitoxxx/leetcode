@@ -126,6 +126,7 @@
 |933|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls)|$\color{green}{\textsf{Easy}}$||
 |942|[DI String Match](https://leetcode.com/problems/di-string-match)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/942.DI_string_match/main.go)|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/977.squares_of_a_sorted_array/main.go)|
+|994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/994.rotting_oranges/main.go)|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1002.find_common_characters/main.go)|
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1004.max_consecutive_ones_III/main.go)|
 |1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses)|$\color{green}{\textsf{Easy}}$||
