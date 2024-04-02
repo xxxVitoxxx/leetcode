@@ -62,6 +62,7 @@
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/199.binary_tree_right_side_view/main.go)|
 |202|[Happy Number](https://leetcode.com/problems/happy-number)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/202.happy_number/main.go)|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/206.reverse_linked_list/main.go)|
+|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/208.implement_trie_prefix_tree/main.go)|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/217.contains_duplicate/main.go)|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/219.contains_duplicate_II/main.go)|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/222.count_complete_tree_nodes/main.go)|
