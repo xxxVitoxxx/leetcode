@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 // bit manipulation
 // time complexity: O(1)
 // space complexity: O(1)
@@ -24,7 +22,6 @@ func hammingWeight(n int) int {
 			result++
 		}
 		n >>= 1
-		fmt.Println("1: ", n)
 	}
 
 	return result
