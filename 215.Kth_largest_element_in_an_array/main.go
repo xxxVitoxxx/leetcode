@@ -47,8 +47,8 @@ func findKthLargest2(nums []int, k int) int {
 	for i := 0; i < k; i++ {
 		answer = nums[0]
 		nums[0], nums[lastIndex] = nums[lastIndex], nums[0]
-		heapify(nums, 0, lastIndex-1)
 		lastIndex--
+		heapify(nums, 0, lastIndex)
 	}
 
 	return answer
@@ -141,20 +141,20 @@ func findKthLargest5(nums []int, k int) int {
 }
 
 func quicklySelect(nums []int, k, left, right int) int {
-	pivot, p := nums[right], left
+	pivot, index := nums[right], left
 	for i := left; i < right; i++ {
 		if nums[i] < pivot {
-			nums[i], nums[p] = nums[p], nums[i]
-			p++
+			nums[i], nums[index] = nums[index], nums[i]
+			index++
 		}
 	}
-	nums[p], nums[right] = nums[right], nums[p]
+	nums[index], nums[right] = nums[right], nums[index]
 
-	if len(nums)-k < p {
-		return quicklySelect(nums, k, left, p-1)
-	} else if len(nums)-k > p {
-		return quicklySelect(nums, k, p+1, right)
+	if len(nums)-k < index {
+		return quicklySelect(nums, k, left, index-1)
+	} else if len(nums)-k > index {
+		return quicklySelect(nums, k, index+1, right)
 	}
 
-	return nums[p]
+	return nums[index]
 }
