@@ -143,6 +143,7 @@
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1089.duplicate_zeros/main.go)|
 |1099|[Two Sum Less Than K :lock:](https://leetcode.com/problems/two-sum-less-than-k)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1099.two_sum_less_than_k/main.go)|
 |1120|[Maximum Average Subtree :lock:](https://leetcode.com/problems/maximum-average-subtree)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1120.maximum_average_subtree/main.go)|
+|1148|[Article Views I](https://leetcode.com/problems/article-views-i)|$\color{green}{\textsf{Easy}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/1148.article_views_I/main.sql)|  
 |1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1160.find_words_that_can_be_formed_by_character/main.go)|
 |1161|[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1161.maximum_level_sum_of_a_binary_tree/main.go)|
 |1176|[Diet Plan Performance :lock:](https://leetcode.com/problems/diet-plan-performance)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1176.diet_plan_performance/main.go)|
