@@ -179,6 +179,7 @@
 |1791|[Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1791.find_center_of_star_graph/main.go)|
 |1826|[Faulty Sensor :lock:](https://leetcode.com/problems/faulty-sensor)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1826.faulty_sensor/main.go)|
 |1926|[Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1926.nearest_exit_from_entrance_in_maze/main.go)|
+|1934|[Confirmation Rate](https://leetcode.com/problems/confirmation-rate)|$\color{orange}{\textsf{Medium}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/1934.confirmation_rate/main.sql)|  
 |1971|[Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1971.find_if_path_exists_in_graph/main.go)|
 |2000|[Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/2000.reverse_prefix_of_word/main.go)|
 |2095|[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/2095.delete_the_middle_node_of_a_linked_list/main.go)|
