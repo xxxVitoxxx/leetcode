@@ -60,6 +60,7 @@
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables)|$\color{green}{\textsf{Easy}}$||
 |186|[Reverse Words in a String II :lock:](https://leetcode.com/problems/reverse-words-in-a-string-ii)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/186.reverse_words_in_a_string_II/main.go)|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/191.number_of_1_bits/main.go)|  
+|197|[Rising Temperature](https://leetcode.com/problems/rising-temperature)|$\color{green}{\textsf{Easy}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/197.rising_temperature/main.sql)|  
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/199.binary_tree_right_side_view/main.go)|
 |202|[Happy Number](https://leetcode.com/problems/happy-number)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/202.happy_number/main.go)|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/206.reverse_linked_list/main.go)|
@@ -103,6 +104,8 @@
 |541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/541.reverse_string_II/main.go)|
 |547|[Number of Provinces](https://leetcode.com/problems/number-of-provinces)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/547.number_of_provinces/main.go)|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/557.reverse_words_in_a_string_III/main.go)|
+|570|[Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports)|$\color{orange}{\textsf{Medium}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/570.managers_with_at_least_5_direct_reports/main.sql)|  
+|577|[Employee Bonus](https://leetcode.com/problems/employee-bonus)|$\color{green}{\textsf{Easy}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/577.employee_bonus/main.sql)|  
 |584|[Find Customer Referee](https://leetcode.com/problems/find-customer-referee)|$\color{green}{\textsf{Easy}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/584.find_customer_referee/main.sql)|
 |595|[Big Countries](https://leetcode.com/problems/big-countries)|$\color{green}{\textsf{Easy}}$|[Python3](https://github.com/xxxVitoxxx/leetcode/blob/main/595.big_countries/main.py) [MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/595.big_countries/main.sql)|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/605.can_place_flowers/main.go)|
@@ -138,6 +141,7 @@
 |1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses)|$\color{green}{\textsf{Easy}}$||
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1047.remove_all_adjacent_duplicates_in_string/main.go)|
 |1056|[Confusing Number :lock:](https://leetcode.com/problems/confusing-number)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1056.confusing_number/main.go)|
+|1068|[Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i)|$\color{green}{\textsf{Easy}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/1068.product_sales_analysis_I/main.sql)|  
 |1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1071.greatest_common_divisor_of_strings/main.go)|
 |1088|[Confusing Number II :lock:](https://leetcode.com/problems/confusing-number-ii)|$\color{red}{\textsf{Hard}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1088.confusing_number_II/main.go)|
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1089.duplicate_zeros/main.go)|
@@ -149,7 +153,9 @@
 |1176|[Diet Plan Performance :lock:](https://leetcode.com/problems/diet-plan-performance)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1176.diet_plan_performance/main.go)|
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1207.unique_number_of_occurrences/main.go)|  
 |1268|[Search Suggestions System](https://leetcode.com/problems/search-suggestions-system)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1268.search_suggestions_system/main.go)|  
+|1280|[Students and Examinations](https://leetcode.com/problems/students-and-examinations)|$\color{green}{\textsf{Easy}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/1280.students_and_examinations/main.sql)|  
 |1372|[Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1372.longest_zigzag_path_in_a_binary_tree/main.go)|
+|1378|[Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier)|$\color{green}{\textsf{Easy}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/1378.replace_employee_id_with_the_unique_ldentifier/main.sql)|  
 |1385|[Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1385.find_the_distance_value_between_two_arrays/main.go)|
 |1403|[Minimum Subsequence in Non-Increasing](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order)|$\color{green}{\textsf{Easy}}$||
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1431.kids_with_the_greatest_number_of_candies/main.go)|
@@ -159,6 +165,8 @@
 |1493|[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1493.longest_subarray_of_1_after_deleting_one_element/main.go)|
 |1544|[Make The String Great](https://leetcode.com/problems/make-the-string-great)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1544.make_the_string_great/main.go)|
 |1561|[Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1561.maximum_number_of_coins_you_can_get/main.go)|
+|1581|[Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions)|$\color{green}{\textsf{Easy}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/1581.customer_who_visited_but_did_not_make_any_transactions/main.sql)|  
+|1661|[Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine)|$\color{green}{\textsf{Easy}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/1661.average_time_of_process_per_machine/main.sql)|
 |1657|[Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1657.determine_if_two_strings_are_close/main.go)|  
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1662.check_if_two_string_arrays_are_equivalent/main.go)|
 |1679|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1679.max_number_of_K-Sum_pairs/main.go)|
@@ -171,6 +179,7 @@
 |1791|[Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1791.find_center_of_star_graph/main.go)|
 |1826|[Faulty Sensor :lock:](https://leetcode.com/problems/faulty-sensor)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1826.faulty_sensor/main.go)|
 |1926|[Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1926.nearest_exit_from_entrance_in_maze/main.go)|
+|1934|[Confirmation Rate](https://leetcode.com/problems/confirmation-rate)|$\color{orange}{\textsf{Medium}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/1934.confirmation_rate/main.sql)|  
 |1971|[Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1971.find_if_path_exists_in_graph/main.go)|
 |2000|[Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/2000.reverse_prefix_of_word/main.go)|
 |2095|[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/2095.delete_the_middle_node_of_a_linked_list/main.go)|
