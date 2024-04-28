@@ -144,6 +144,7 @@
 |1056|[Confusing Number :lock:](https://leetcode.com/problems/confusing-number)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1056.confusing_number/main.go)|
 |1068|[Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i)|$\color{green}{\textsf{Easy}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/1068.product_sales_analysis_I/main.sql)|  
 |1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1071.greatest_common_divisor_of_strings/main.go)|
+|1075|[Project Employees I](https://leetcode.com/problems/project-employees-i)|$\color{green}{\textsf{Easy}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/1075.project_employees_I/main.sql)|  
 |1088|[Confusing Number II :lock:](https://leetcode.com/problems/confusing-number-ii)|$\color{red}{\textsf{Hard}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1088.confusing_number_II/main.go)|
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1089.duplicate_zeros/main.go)|
 |1099|[Two Sum Less Than K :lock:](https://leetcode.com/problems/two-sum-less-than-k)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1099.two_sum_less_than_k/main.go)|
