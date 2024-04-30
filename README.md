@@ -103,6 +103,7 @@
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/496.next_greater_element_I/main.go)|
 |541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/541.reverse_string_II/main.go)|
 |547|[Number of Provinces](https://leetcode.com/problems/number-of-provinces)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/547.number_of_provinces/main.go)|
+|550|[Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv)|$\color{orange}{\textsf{Medium}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/550.game_play_analysis_IV/main.sql)|  
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/557.reverse_words_in_a_string_III/main.go)|
 |570|[Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports)|$\color{orange}{\textsf{Medium}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/570.managers_with_at_least_5_direct_reports/main.sql)|  
 |577|[Employee Bonus](https://leetcode.com/problems/employee-bonus)|$\color{green}{\textsf{Easy}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/577.employee_bonus/main.sql)|  
