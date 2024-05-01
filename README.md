@@ -109,9 +109,10 @@
 |577|[Employee Bonus](https://leetcode.com/problems/employee-bonus)|$\color{green}{\textsf{Easy}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/577.employee_bonus/main.sql)|  
 |584|[Find Customer Referee](https://leetcode.com/problems/find-customer-referee)|$\color{green}{\textsf{Easy}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/584.find_customer_referee/main.sql)|
 |595|[Big Countries](https://leetcode.com/problems/big-countries)|$\color{green}{\textsf{Easy}}$|[Python3](https://github.com/xxxVitoxxx/leetcode/blob/main/595.big_countries/main.py) [MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/595.big_countries/main.sql)|
-|605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/605.can_place_flowers/main.go)|
-|624|[Maximum Distance in Arrays :lock:](https://leetcode.com/problems/maximum-distance-in-arrays)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/624.maximum_distance_in_arrays/main.go)|
+|605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/605.can_place_flowers/main.go)|  
 |620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies)|$\color{green}{\textsf{Easy}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/620.not_boring_movies/main.sql)|  
+|624|[Maximum Distance in Arrays :lock:](https://leetcode.com/problems/maximum-distance-in-arrays)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/624.maximum_distance_in_arrays/main.go)|
+|626|[Exchange Seats](https://leetcode.com/problems/exchange-seats)|$\color{orange}{\textsf{Medium}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/626.exchange_seats/main.sql)|  
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/643.maximum_average_subarray_I/main.go)|
 |649|[Dota2 Senate](https://leetcode.com/problems/dota2-senate)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/649.dota2_senate/main.go)|
 |653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/653.two_sum_IV-input_is_a_BST/main.go)|
