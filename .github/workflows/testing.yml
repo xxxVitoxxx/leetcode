@@ -2,6 +2,8 @@ name: Lint and Testing
 
 on:
   push:
+    paths:
+      - "**.go"
 
 permissions:
   contents: read
