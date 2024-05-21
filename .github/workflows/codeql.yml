@@ -12,9 +12,6 @@
 name: "CodeQL"
 
 on:
-  push:
-    branch: 
-      - main
   schedule:
     - cron: "0 0 * * 6"
 
