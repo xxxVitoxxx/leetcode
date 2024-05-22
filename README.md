@@ -168,6 +168,7 @@
 |1174|[Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii)|$\color{orange}{\textsf{Medium}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/1174.immediate_food_delivery_II/main.sql)|  
 |1176|[Diet Plan Performance :lock:](https://leetcode.com/problems/diet-plan-performance)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1176.diet_plan_performance/main.go)|
 |1193|[Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i)|$\color{orange}{\textsf{Medium}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/1193.monthly_transactions_I/main.sql)|  
+|1204|[Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus)|$\color{orange}{\textsf{Medium}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/1204.last_person_to_fit_in_the_bus/main.sql)|  
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1207.unique_number_of_occurrences/main.go)|  
 |1211|[Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage)|$\color{green}{\textsf{Easy}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/1211.queries_quality_and_percentage/main.sql)|  
 |1251|[Average Selling Price](https://leetcode.com/problems/average-selling-price)|$\color{green}{\textsf{Easy}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/1251.average_selling_price/main.sql)|  
