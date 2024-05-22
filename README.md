@@ -203,7 +203,8 @@
 |1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1768.merge_strings_alternately/main.go)|  
 |1789|[Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee)|$\color{green}{\textsf{Easy}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/1789.primary_department_for_each_employee/main.sql)|  
 |1791|[Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1791.find_center_of_star_graph/main.go)|
-|1826|[Faulty Sensor :lock:](https://leetcode.com/problems/faulty-sensor)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1826.faulty_sensor/main.go)|
+|1826|[Faulty Sensor :lock:](https://leetcode.com/problems/faulty-sensor)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1826.faulty_sensor/main.go)|  
+|1907|[Count Salary Categories](https://leetcode.com/problems/count-salary-categories)|$\color{orange}{\textsf{Medium}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/1907.count_salary_categories/main.sql)|  
 |1926|[Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1926.nearest_exit_from_entrance_in_maze/main.go)|
 |1934|[Confirmation Rate](https://leetcode.com/problems/confirmation-rate)|$\color{orange}{\textsf{Medium}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/1934.confirmation_rate/main.sql)|  
 |1971|[Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1971.find_if_path_exists_in_graph/main.go)|
