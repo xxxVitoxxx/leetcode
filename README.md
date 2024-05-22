@@ -57,7 +57,8 @@
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/167.two_sum_II-input_array_is_sorted/main.go)|
 |170|[Two Sum III - Data structure design :lock:](https://leetcode.com/problems/two-sum-iii-data-structure-design)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/170.two_sum_III-data_structure_design/main.go)|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/171.excel_sheet_cloumn_number/main.go)|
-|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables)|$\color{green}{\textsf{Easy}}$||
+|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables)|$\color{green}{\textsf{Easy}}$||  
+|176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary)|$\color{orange}{\textsf{Medium}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/176.second_highest_salary/main.sql)|  
 |180|[Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers)|$\color{orange}{\textsf{Medium}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/180.consecutive_numbers/main.sql)|  
 |185|[Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries)|$\color{red}{\textsf{Hard}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/185.department_top_three_salaries/main.sql)|  
 |186|[Reverse Words in a String II :lock:](https://leetcode.com/problems/reverse-words-in-a-string-ii)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/186.reverse_words_in_a_string_II/main.go)|
