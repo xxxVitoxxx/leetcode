@@ -22,7 +22,8 @@
 |27|[Remove Element](https://leetcode.com/problems/remove-element)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/27.remove_element/main.go)|
 |28|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/28.find_the_index_of_the_first_occurrence_in_a_string/main.go)|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/31.next_premutation/main.go)|
-|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|$\color{green}{\textsf{Easy}}$|[Go]()|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|$\color{green}{\textsf{Easy}}$|[Go]()|  
+|46|[Permutations](https://leetcode.com/problems/permutations/)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/46.permutations/main.go)|  
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|$\color{orange}{\textsf{Medium}}$||
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word)|$\color{green}{\textsf{Easy}}$||
 |61|[Rotate List](https://leetcode.com/problems/rotate-list)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/61.rotate_list/main.go)|
