@@ -24,6 +24,7 @@
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/31.next_premutation/main.go)|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|$\color{green}{\textsf{Easy}}$|[Go]()|  
 |46|[Permutations](https://leetcode.com/problems/permutations/)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/46.permutations/main.go)|  
+|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|$\color{red}{\textsf{Hard}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/52.N-queens_II/main.go)|  
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|$\color{orange}{\textsf{Medium}}$||
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word)|$\color{green}{\textsf{Easy}}$||
 |61|[Rotate List](https://leetcode.com/problems/rotate-list)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/61.rotate_list/main.go)|
