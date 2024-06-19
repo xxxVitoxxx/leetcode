@@ -1,3 +1,4 @@
+// nolint
 package main
 
 // This is the robot's control interface.
