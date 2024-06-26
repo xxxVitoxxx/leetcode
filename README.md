@@ -14,7 +14,8 @@
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|$\color{green}{\textsf{Easy}}$||
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|$\color{green}{\textsf{Easy}}$||
 |15|[3Sum](https://leetcode.com/problems/3sum)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/15.3sum/main.go)|
-|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/16.3sum_closest/main.go)|
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/16.3sum_closest/main.go)|  
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/17.letter_combinations_of_a_phone_number/main.go)|  
 |18|[4Sum](https://leetcode.com/problems/4sum)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/18.4sum/main.go)|
 |20|[Valid Parentheses]()|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/20.valid_parentheses/main.go)|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|$\color{green}{\textsf{Easy}}$||
