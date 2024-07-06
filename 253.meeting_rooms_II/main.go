@@ -7,7 +7,16 @@ import (
 
 // heap(priority queue)
 // time complexity: O(n * log n)
+//   - there are two major portions that take up time here. one is sorting of the array that
+//     takes O(n * log n) considering that the array consists of n elements.
+//   - then we have the min-heap. in the worst case, all n meetings will collide with each other.
+//     in any case we have n add operations on the heap. in the worst case we will have
+//     n extract-min operations as well. overall complexity being O(n * log n) since
+//     extract-min operation on a heap takes O(log n)
+//
 // space complexity: O(n)
+//   - because we construct the min-heap and that can contain n elements in the worst case as
+//     described above in the time complexity section. hence, the space complexity is O(n).
 func minMeetingRooms(intervals [][]int) int {
 	sort.Slice(intervals, func(i, j int) bool {
 		return intervals[i][0] < intervals[j][0]
