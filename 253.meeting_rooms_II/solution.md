@@ -24,3 +24,23 @@ Instead of manually iterating on every room that's been allocated and checking i
 So, every time we want to check if any room is free or not, simply check the topmost element of the min heap as that would be the room that would get free the earliest out of all the other rooms currently occupied.  
 
 If the room we extracted from the top of the min heap isn't free, then `no other room is`. so, we can save time here and simply allocate a new room.  
+
+## Chronological Order
+
+The meeting timings given to us define a chronological order of events throughout the day. we are given the start and end timings for the meetings which can help us define this ordering.  
+
+Arranging the meetings according to their start times helps us know the natural order of meetings throughout the day. however, simply knowing when a meeting starts doesn't tell us much about its duration.  
+
+We also need the meetings sorted by their ending times because an ending event essentially tells us that there must have been a corresponding starting event and more importantly, an ending event tell us that a previously occupied room has now become free.  
+
+A meeting is defined by its start and end times. however, for this specific algorithm, we need to treat the start and end times `individually`. this might not make sense right away because a meeting is defined by its start and end times. if we separate the two and treat them individually, then the identity of a meeting goes away. this is fine because:  
+> When we encounter an ending event, that means that some meeting that started earlier has ended now. we are not really concerned with which meeting has ended. all we need is that some meeting ended thus making a room available.  
+
+Let us consider the same example as we did in the last approach. we have the following meetings to be scheduled: `[1, 10], [2, 7], [3, 19], [8, 12], [10, 20], [11, 30]`. as before, the first diagram show us that the first three meetings are colliding with each other and they have to be allocated separate rooms.  
+
+![](chronological_ordering1.png)  
+
+The next two diagrams process the remaining meetings and we see that we can now reuse some of the existing meeting rooms. the final result is the same, we need 4 different meeting rooms to process all the meetings. that's the best we can do here.  
+
+![](chronological_ordering2.png)  
+![](chronological_ordering3.png)  
