@@ -90,3 +90,32 @@ func topKFrequent2(nums []int, k int) []int {
 
 	return unique[n-k:]
 }
+
+// time complexity: O(n)
+// space complexity: O(n)
+func topKFrequent3(nums []int, k int) []int {
+	count := make(map[int]int)
+	for _, num := range nums {
+		count[num]++
+	}
+
+	// frequent element would be greater than or equal to 1
+	// if just one number '1' appears in the nums and the length of nums is 2 that
+	// represent freq[2] = 1, so the length of freq will be the length of nums + 1
+	freq := make([][]int, len(nums)+1)
+	for k, v := range count {
+		freq[v] = append(freq[v], k)
+	}
+
+	answer := make([]int, 0, k)
+	for i := len(freq) - 1; i >= 0; i-- {
+		for _, num := range freq[i] {
+			if k > 0 {
+				answer = append(answer, num)
+				k--
+			}
+		}
+	}
+
+	return answer
+}
