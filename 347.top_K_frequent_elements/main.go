@@ -1,6 +1,7 @@
 package main
 
 import (
+	"container/heap"
 	"math/rand"
 	"sort"
 )
@@ -108,14 +109,54 @@ func topKFrequent3(nums []int, k int) []int {
 	}
 
 	answer := make([]int, 0, k)
+	c := 0
 	for i := len(freq) - 1; i >= 0; i-- {
 		for _, num := range freq[i] {
-			if k > 0 {
-				answer = append(answer, num)
-				k--
+			answer = append(answer, num)
+			c++
+			if c == k {
+				return answer
 			}
 		}
 	}
 
 	return answer
+}
+
+// heap
+// time complexity: O(n * log n)
+// space complexity: O(n)
+func topKFrequent4(nums []int, k int) []int {
+	count := make(map[int]int)
+	for _, num := range nums {
+		count[num]++
+	}
+
+	minHeap := &MinHeap{}
+	for num, freq := range count {
+		heap.Push(minHeap, [2]int{num, freq})
+		if minHeap.Len() > k {
+			heap.Pop(minHeap)
+		}
+	}
+
+	var answer []int
+	for i := 0; i < k; i++ {
+		answer = append(answer, heap.Pop(minHeap).([2]int)[0])
+	}
+	return answer
+}
+
+type MinHeap [][2]int
+
+func (h MinHeap) Len() int           { return len(h) }
+func (h MinHeap) Less(i, j int) bool { return h[i][1] < h[j][1] }
+func (h MinHeap) Swap(i, j int)      { h[i], h[j] = h[j], h[i] }
+func (h *MinHeap) Push(x interface{}) {
+	*h = append(*h, x.([2]int))
+}
+func (h *MinHeap) Pop() interface{} {
+	x := (*h)[len(*h)-1]
+	*h = (*h)[:len(*h)-1]
+	return x
 }
