@@ -43,3 +43,18 @@ Each problem `f(i)` is related to three subproblem. thus we can store tribonacci
 ![](dp2.png)  
 
 One advantage of this solution is that we precompute each tribonacci number. if we have multiple requests on the value of the `iᵗʰ` tribonacci number later, we can simply refer to `dp[i]` in a constant time, rather than computing `dp[i]` again. this method is called tabulation.  
+
+## Better Dynamic Programming(Bottom Up)
+
+The previous solution requires `O(n)` space complexity since we store all visited tribonacci numbers in `dp`, let's optimize it.  
+
+Note that the value of each tribonacci number only depends on its three previous terms, and the terms before that do not affect its value. therefore, its unnecessary to store all the terms. instead, we only need to store the three most recent tribonacci numbers, let's call them `a`, `b`, and `c`. then, the next tribonacci number is simply `a + b + c`.  
+
+Afterward, we update `a`, `b`, and `c` as the most recent three tribonacci numbers:  
+- `a = b`
+- `b = c`
+- `c = origin a + origin b + origin c`  
+
+We can continue obtaining the value of the next term using the same method of `a + b + c`. this approach only requires constant space complexity, as shown in the picture below.  
+
+![](dp3.png)  
