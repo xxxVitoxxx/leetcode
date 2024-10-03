@@ -24,4 +24,11 @@ func TestTwoSum(t *testing.T) {
 			assert.ElementsMatch(t, tt.output, res)
 		})
 	}
+
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			res := twoSum2(tt.input, tt.target)
+			assert.ElementsMatch(t, tt.output, res)
+		})
+	}
 }
