@@ -97,6 +97,7 @@
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/347.top_K_frequent_elements/main.go)|  
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/349.intersection_of_two_arrays/main.go)|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/350.intersection_of_two_arrays_II/main.go)|
+|371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/371.sum_of_two_integers/main.go)|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/374.guess_number_higher_or_lower/main.go)|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/392.is_subsequence/main.go)|
 |394|[Decode String](https://leetcode.com/problems/decode-string)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/394.decode_string/main.go)|
