@@ -1,8 +1,6 @@
 package main
 
-import (
-	"slices"
-)
+import "golang.org/x/exp/slices"
 
 // use hash
 // time complexity: O(n)
@@ -68,7 +66,7 @@ func missingNumber3(nums []int) int {
 	return -1
 }
 
-// use XOR
+// bit manipulation
 // time complexity: O(n)
 // space complexity: O(1)
 func missingNumber4(nums []int) int {
