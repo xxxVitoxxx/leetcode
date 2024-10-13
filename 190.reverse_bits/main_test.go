@@ -8,13 +8,16 @@ import (
 func TestReverseBits(t *testing.T) {
 	for _, tt := range []struct {
 		binaryStr string
-		want      string
+		wantStr   string
 	}{{
 		binaryStr: "00000010100101000001111010011100",
-		want:      "00111001011110000010100101000000",
+		wantStr:   "00111001011110000010100101000000",
+	}, {
+		binaryStr: "11111111111111111111111111111101",
+		wantStr:   "10111111111111111111111111111111",
 	}} {
-		num, _ := strconv.ParseInt(tt.binaryStr, 2, 32)
-		want, _ := strconv.ParseInt(tt.want, 2, 32)
+		num, _ := strconv.ParseInt(tt.binaryStr, 2, 64)
+		want, _ := strconv.ParseInt(tt.wantStr, 2, 64)
 
 		num1 := num
 		got := reverseBits(uint32(num1))
