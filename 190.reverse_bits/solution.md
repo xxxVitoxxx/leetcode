@@ -4,11 +4,11 @@
 
 因 n 是 32-bit 的數字，首先取得 n 最右邊的 bit ，並把它左移 31 位後與 result 相加，最後在將 n 右移一位並重複該流程直到 n 為 0（左移的次數需遞減）。  
 
-Q: 如何取得 n 最右邊的 bit
-A: 利用 `&` 判斷，因為 `0 & 1 = 0` 、 `1 & 1 = 1` ，所以 `任何數 & 1` 就可以取得最右邊的 bit
+Q: 如何取得 n 最右邊的 bit  
+A: 利用 `&` 判斷，因為 `0 & 1 = 0` 、 `1 & 1 = 1` ，所以 `任何數 & 1` 就可以取得最右邊的 bit  
 
-Q: 為什麼第一次要左移 31 位
-A: 因為 n 是 32-bits
+Q: 為什麼第一次要左移 31 位  
+A: 因為 n 是 32-bits  
 
 ### Dry Run
 
@@ -46,10 +46,10 @@ power = power - 1                 -> 0
 ```
 ## reverseBits2
 
-1. 將 32-bits 分成兩個 16 bit 的區塊在進行交換
-2. 將 16-bits 分成兩個 8 bit 的區塊在進行交換
-3. 持續分成兩個區塊直到區分出來的區塊為 1 bit
-4. 在上述步驟中，我們將中間結果合併成一個整數作為下一循環的 input
+1. 將 32-bits 分成兩個 16 bit 的區塊在進行交換  
+2. 將 16-bits 分成兩個 8 bit 的區塊在進行交換  
+3. 持續分成兩個區塊直到區分出來的區塊為 1 bit  
+4. 在上述步驟中，我們將中間結果合併成一個整數作為下一循環的 input  
 
 ![image](./reverse_bits2.png)  
 
@@ -63,7 +63,7 @@ power = power - 1                 -> 0
 
 ### Dry Run
 
-n = abcdefghijklmnopqrstuvwxyzABCDEF(*假設字母都代表 1*)
+n = abcdefghijklmnopqrstuvwxyzABCDEF(*假設字母都代表 1*)  
 首先先將 n 分成兩個 16-bits 的區塊並交換它再重組起來 
 ```
 abcdefghijklmnop qrstuvwxyzABCDEF
