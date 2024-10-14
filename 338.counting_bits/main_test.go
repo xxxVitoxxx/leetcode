@@ -1,13 +1,11 @@
 package main
 
 import (
-	"fmt"
 	"reflect"
 	"testing"
 )
 
 func TestCountBits(t *testing.T) {
-	fmt.Println(0>>1 + 15&1)
 	tests := []struct {
 		name   string
 		n      int
