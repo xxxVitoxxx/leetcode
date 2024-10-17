@@ -32,7 +32,8 @@
 |66|[Plus One](https://leetcode.com/problems/plus-one)|$\color{green}{\textsf{Easy}}$||
 |67|[Add Binary](https://leetcode.com/problems/add-binary)|$\color{green}{\textsf{Easy}}$||
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx)|$\color{green}{\textsf{Easy}}$||
-|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|$\color{green}{\textsf{Easy}}$||
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|$\color{green}{\textsf{Easy}}$||  
+|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/73.set_matrix_zeroes/main.go)|  
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/75.sort_colors/main.go)|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|$\color{green}{\textsf{Easy}}$||
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/88.merge_sorted_array/main.go)|
