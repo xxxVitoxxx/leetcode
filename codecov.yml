@@ -1,0 +1,29 @@
+# Refs:
+# - https://docs.codecov.com/docs/common-recipe-list
+# - https://docs.codecov.com/docs/codecovyml-reference
+#
+# after making changes, run below command to validate
+# curl --data-binary @codecov.yml https://codecov.io/validate
+coverage:
+  range: 80...100           # the value range where you want to value to be green
+  round: down               # which direction to you want to round the coverage value
+  precision: 2              # what precision do you want the coverage value to be
+  status:
+    project:                # measuring the overall project coverage
+      default:
+        informational: true # if true is specified the resulting status will pass
+                            # no matter what the coverage is or what other settings are specified
+        target: 90%         # specify the target coverage for each commit status
+                            #   option: "auto" compare against parent commit or pull request base
+                            #   option: "x%" a static target percentage to hit
+        threshold: 0%       # allow the coverage drop by x% before marking as failed
+
+    patch:
+      default:
+        target: 75%
+        threshold: 5%
+
+comment:
+  layout: "header, diff, files, footer"
+  behavior: default
+  hide_project_coverage: false
