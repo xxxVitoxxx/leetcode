@@ -47,7 +47,6 @@
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/104.maximum_depth_of_binary_tree/main.go)|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/105.construct_binary_tree_from_preorder_and_inorder_traversal/main.go)|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)|$\color{green}{\textsf{Easy}}$||
-|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/119.pascals_triangle_II/main.go)|  
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|$\color{green}{\textsf{Easy}}$||
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/125.valid_palindrome/main.go)|
 |133|[133.clone_graph](https://leetcode.com/problems/clone-graph)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/133.clone_graph/main.go)|
