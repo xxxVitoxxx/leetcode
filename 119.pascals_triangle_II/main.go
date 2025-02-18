@@ -41,10 +41,10 @@ func getNum(row, col int) int {
 	return cache[rowCol]
 }
 
+// dynamic programming + memoization
 // time complexity: O(n^2)
 // space complexity: O(n)
 //
-// DP + memoization
 // store the intermediate results in the cache
 // so that we could reuse them later without re-calculation
 // to provides significant savings on runtime
@@ -56,11 +56,10 @@ func getRow2(rowIndex int) []int {
 	return ans
 }
 
+// memory-efficient dynamic programming
 // time complexity: O(n^2)
 // space complexity: O(n)
 // no extra space is used other than required to hold the output
-//
-// DP + memoization
 //
 // this is a more efficient version of the previous solution
 // it uses a single array to store the intermediate results
