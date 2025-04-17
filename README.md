@@ -147,7 +147,8 @@
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/700.search_in_a_binary_search_tree/main.go)|
 |713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/713.subarray_product_less_than_k/main.go)|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/724.find_pivot_index/main.go)|
-|735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/735.asteroid_collision/main.go)|
+|735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/735.asteroid_collision/main.go)|  
+|779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/779.k_th_symbol_in_grammar/main.go)|  
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/821.shortest_distance_to_a_character/main.go)|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/832.flipping_an_image/main.go)|
 |841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/841.keys_and_rooms/main.go)|
