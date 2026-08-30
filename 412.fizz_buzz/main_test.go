@@ -49,3 +49,39 @@ func TestFizzBuzz(t *testing.T) {
 		})
 	}
 }
+
+func TestFizzBuzz3(t *testing.T) {
+	output := []string{
+		"1",
+		"2",
+		"Fizz",
+		"4",
+		"Buzz",
+		"Fizz",
+		"Jazz",
+		"8",
+		"Fizz",
+		"Buzz",
+		"11",
+		"Fizz",
+		"13",
+		"Jazz",
+		"FizzBuzz",
+	}
+
+	tests := []struct {
+		name   string
+		input  int
+		output []string
+	}{
+		{"example1", 7, output[:7]},
+		{"example2", 15, output[:15]},
+	}
+
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			result := fizzBuzz3(tt.input)
+			assert.Equal(t, tt.output, result)
+		})
+	}
+}
