@@ -37,3 +37,32 @@ func fizzBuzz2(n int) []string {
 	}
 	return result
 }
+
+// string concatenation and we can put all mappings in a hash table
+func fizzBuzz3(n int) []string {
+	result := make([]string, 0, n)
+
+	divisors := []int{3, 5, 7}
+	m := map[int]string{
+		3: "Fizz",
+		5: "Buzz",
+		7: "Jazz",
+	}
+
+	for i := 1; i <= n; i++ {
+		var str string
+		for _, divisor := range divisors {
+			if i%divisor == 0 {
+				str += m[divisor]
+			}
+		}
+
+		if str == "" {
+			str = strconv.Itoa(i)
+		}
+
+		result = append(result, str)
+	}
+
+	return result
+}
