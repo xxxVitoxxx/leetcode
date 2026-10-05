@@ -35,11 +35,7 @@ func canFinish(numCourses int, prerequisites [][]int) bool {
 		}
 	}
 
-	if count != numCourses {
-		return false
-	}
-
-	return true
+	return count == numCourses
 }
 
 // Topological Sort Using Kahn's Algorithm(DFS)
