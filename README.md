@@ -78,6 +78,7 @@
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/199.binary_tree_right_side_view/main.go)|
 |202|[Happy Number](https://leetcode.com/problems/happy-number)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/202.happy_number/main.go)|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/206.reverse_linked_list/main.go)|
+|207|[Course Schedule](https://leetcode.com/problems/course-schedule)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/207.course_schedule/main.go)|  
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/208.implement_trie_prefix_tree/main.go)|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/215.Kth_largest_element_in_an_array/main.go)|  
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/216.combination_sum_III/main.go)|  
