@@ -101,6 +101,7 @@
 |269|[Alien Dictionary :lock:](https://leetcode.com/problems/alien-dictionary)|$\color{red}{\textsf{Hard}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/269.alien_dictionart/main.go)|  
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version)|$\color{green}{\textsf{Easy}}$||
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/283.move_zeroes/main.go)|
+|310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/310.minimum_height_trees/main.go)|   
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/328.odd_even_linked_list/main.go)|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/34.increasing_triplet_subsequence/main.go)|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/338.counting_bits/main.go)|  
