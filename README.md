@@ -185,6 +185,7 @@
 |1075|[Project Employees I](https://leetcode.com/problems/project-employees-i)|$\color{green}{\textsf{Easy}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/1075.project_employees_I/main.sql)|  
 |1088|[Confusing Number II :lock:](https://leetcode.com/problems/confusing-number-ii)|$\color{red}{\textsf{Hard}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1088.confusing_number_II/main.go)|
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1089.duplicate_zeros/main.go)|
+|1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1091.shortest_path_in_binary_matrix/main.go)|  
 |1099|[Two Sum Less Than K :lock:](https://leetcode.com/problems/two-sum-less-than-k)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1099.two_sum_less_than_k/main.go)|
 |1120|[Maximum Average Subtree :lock:](https://leetcode.com/problems/maximum-average-subtree)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1120.maximum_average_subtree/main.go)|  
 |1136|[Parallel Courses :lock:](https://leetcode.com/problems/parallel-courses)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1136.parallel_courses/main.go)|  
