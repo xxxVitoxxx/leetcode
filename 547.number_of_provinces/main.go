@@ -53,3 +53,60 @@ func findCircleNum2(isConnected [][]int) int {
 
 	return provinces
 }
+
+func findCircleNum3(isConnected [][]int) int {
+	uf := newUnionFind(len(isConnected))
+	for i, conn := range isConnected {
+		for j := range conn {
+			if conn[j] != 0 {
+				uf.union(i, j)
+			}
+		}
+	}
+
+	return uf.count
+}
+
+type unionFind struct {
+	root  []int
+	rank  []int
+	count int
+}
+
+func newUnionFind(n int) *unionFind {
+	root, rank := make([]int, n), make([]int, n)
+	for i := range n {
+		root[i] = i
+		rank[i] = 1
+	}
+	return &unionFind{root, rank, n}
+}
+
+func (uf *unionFind) find(x int) int {
+	if x == uf.root[x] {
+		return x
+	}
+
+	uf.root[x] = uf.find(uf.root[x])
+	return uf.root[x]
+}
+
+func (uf *unionFind) union(x, y int) {
+	rootX, rootY := uf.find(x), uf.find(y)
+	if rootX != rootY {
+		if uf.rank[rootX] > uf.rank[rootY] {
+			uf.root[rootY] = rootX
+		} else if uf.rank[rootX] < uf.rank[rootY] {
+			uf.root[rootX] = rootY
+		} else {
+			uf.root[rootY] = rootX
+			uf.rank[rootX]++
+		}
+
+		uf.count--
+	}
+}
+
+func (uf *unionFind) getCount() int {
+	return uf.count
+}
