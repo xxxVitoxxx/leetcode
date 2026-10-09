@@ -64,7 +64,7 @@ func findCircleNum3(isConnected [][]int) int {
 		}
 	}
 
-	return uf.count
+	return uf.getCount()
 }
 
 type unionFind struct {
