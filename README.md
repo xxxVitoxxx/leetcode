@@ -97,6 +97,7 @@
 |246|[Strobogrammatic Number :lock:](https://leetcode.com/problems/strobogrammatic-number)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/246.strobogrammatic_number/main.go)|  
 |253|[Meeting Rooms II :lock:](https://leetcode.com/problems/meeting-rooms-ii)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/253.meeting_rooms_II/main.go)|  
 |258|[Add Digits](https://leetcode.com/problems/add-digits)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/258.add_digits/main.go)|  
+|261|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/261.graph_valid_tree/main.go)|  
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/263.ugly_number/main.go)|  
 |269|[Alien Dictionary :lock:](https://leetcode.com/problems/alien-dictionary)|$\color{red}{\textsf{Hard}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/269.alien_dictionart/main.go)|  
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version)|$\color{green}{\textsf{Easy}}$||
