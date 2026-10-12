@@ -1,5 +1,9 @@
 package main
 
+// DFS
+// V is the number of vertices, E is the number of edges.
+// time complexity: O(V+E)
+// space complexity: O(V+E)
 func countComponents(n int, edges [][]int) int {
 	adjList := make(map[int][]int)
 	for _, edge := range edges {
@@ -36,6 +40,9 @@ func countComponents(n int, edges [][]int) int {
 }
 
 // Disjoint Set Union
+// V is the number of vertices, E is the number of edges.
+// time complexity: O(E + V⋅α(V))
+// space complexity: O(V)
 func countComponents2(n int, edges [][]int) int {
 	uf := newUnionFind(n)
 	for _, edge := range edges {
