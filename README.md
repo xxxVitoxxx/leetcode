@@ -189,6 +189,7 @@
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1089.duplicate_zeros/main.go)|
 |1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1091.shortest_path_in_binary_matrix/main.go)|  
 |1099|[Two Sum Less Than K :lock:](https://leetcode.com/problems/two-sum-less-than-k)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1099.two_sum_less_than_k/main.go)|
+|1101|[The Earliest Moment When Everyone Become Friends :lock:](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1101.the_earliest_moment_when_everyone_become_friends/main.go)|  
 |1120|[Maximum Average Subtree :lock:](https://leetcode.com/problems/maximum-average-subtree)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1120.maximum_average_subtree/main.go)|  
 |1136|[Parallel Courses :lock:](https://leetcode.com/problems/parallel-courses)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1136.parallel_courses/main.go)|  
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1137.N-th_tribonacci_number/main.go)|  
