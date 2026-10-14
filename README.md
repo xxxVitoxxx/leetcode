@@ -181,6 +181,7 @@
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1002.find_common_characters/main.go)|
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1004.max_consecutive_ones_III/main.go)|
 |1021|[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses)|$\color{green}{\textsf{Easy}}$||  
+|1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1029.two_city_scheduling/main.go)|  
 |1045|[Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products)|$\color{orange}{\textsf{Medium}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/1045.customers_who_bought_all_products/main.sql)|  
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1047.remove_all_adjacent_duplicates_in_string/main.go)|
 |1056|[Confusing Number :lock:](https://leetcode.com/problems/confusing-number)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1056.confusing_number/main.go)|
