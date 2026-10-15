@@ -104,6 +104,7 @@
 |261|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/261.graph_valid_tree/main.go)|  
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/263.ugly_number/main.go)|  
 |269|[Alien Dictionary :lock:](https://leetcode.com/problems/alien-dictionary)|$\color{red}{\textsf{Hard}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/269.alien_dictionart/main.go)|  
+|271|[Encode and Decode Strings :lock:](https://leetcode.com/problems/encode-and-decode-strings)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/271.encode_and_decode_strings/main.go)|  
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version)|$\color{green}{\textsf{Easy}}$||
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/283.move_zeroes/main.go)|
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/310.minimum_height_trees/main.go)|   
