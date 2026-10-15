@@ -1,7 +1,5 @@
 package main
 
-import "strings"
-
 // BFS
 // time complexity: O(N*N*N + M*K)
 // space complexity: O(N+M*K)
@@ -61,9 +59,4 @@ func wordBreak2(s string, wordDict []string) bool {
 	}
 
 	return dp[n]
-}
-
-func e() {
-	var str strings.Builder
-	str.WriteByte(byte(2))
 }
