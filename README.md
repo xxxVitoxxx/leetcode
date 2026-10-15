@@ -152,6 +152,7 @@
 |624|[Maximum Distance in Arrays :lock:](https://leetcode.com/problems/maximum-distance-in-arrays)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/624.maximum_distance_in_arrays/main.go)|
 |626|[Exchange Seats](https://leetcode.com/problems/exchange-seats)|$\color{orange}{\textsf{Medium}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/626.exchange_seats/main.sql)|  
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/643.maximum_average_subarray_I/main.go)|
+|647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/647.palindromic_substrings/main.go)|  
 |649|[Dota2 Senate](https://leetcode.com/problems/dota2-senate)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/649.dota2_senate/main.go)|
 |653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/653.two_sum_IV-input_is_a_BST/main.go)|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/680.valid_palindrome_II/main.go)|
