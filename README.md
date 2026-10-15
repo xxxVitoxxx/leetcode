@@ -56,6 +56,7 @@
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/133.clone_graph/main.go)|  
 |133|[133.clone_graph](https://leetcode.com/problems/clone-graph)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/133.clone_graph/main.go)|
 |136|[Single Number](https://leetcode.com/problems/single-number)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/136.single_number/main.go)|
+|139|[Word Break](https://leetcode.com/problems/word-break)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/139.word_break/main.go)|  
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/141.linked_list_cycle/main.go)|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/142.linked_list_cycle_II/main.go)|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/143.recorder_list/main.go)|
