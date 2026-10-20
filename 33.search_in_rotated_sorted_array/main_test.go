@@ -14,20 +14,25 @@ func TestSearch(t *testing.T) {
 		target:   0,
 		expected: 4,
 	}, {
-		name:     "example1",
+		name:     "example2",
 		nums:     []int{4, 5, 6, 7, 0, 1, 2},
 		target:   3,
 		expected: -1,
 	}, {
-		name:     "example1",
+		name:     "example3",
 		nums:     []int{1},
 		target:   0,
 		expected: -1,
 	}, {
-		name:     "example1",
+		name:     "example4",
 		nums:     []int{1},
 		target:   1,
 		expected: 0,
+	}, {
+		name:     "example5",
+		nums:     []int{1, 3},
+		target:   3,
+		expected: 1,
 	}}
 
 	for _, tt := range tests {
