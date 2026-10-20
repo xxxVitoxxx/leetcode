@@ -15,7 +15,7 @@ func search(nums []int, target int) int {
 		}
 	}
 
-	if nums[left] >= target && nums[n] >= target {
+	if target >= nums[left] && nums[n] >= target {
 		right = n
 	} else {
 		left, right = 0, left
@@ -30,7 +30,7 @@ func search(nums []int, target int) int {
 		if nums[mid] > target {
 			right = mid - 1
 		} else {
-			left = mid + 13
+			left = mid + 1
 		}
 	}
 
