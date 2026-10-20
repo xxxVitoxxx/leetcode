@@ -26,6 +26,7 @@
 |27|[Remove Element](https://leetcode.com/problems/remove-element)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/27.remove_element/main.go)|
 |28|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/28.find_the_index_of_the_first_occurrence_in_a_string/main.go)|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/31.next_premutation/main.go)|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/33.search_in_rotated_sorted_array/main.go)|  
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|$\color{green}{\textsf{Easy}}$|[Go]()|  
 |46|[Permutations](https://leetcode.com/problems/permutations/)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/46.permutations/main.go)|  
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/48.rotate_image/main.go)|  
