@@ -66,6 +66,7 @@
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)|$\color{green}{\textsf{Easy}}$||
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/151.reverse_word_in_string/main.go)|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/152.maximum_product_subarray/main.go)|  
+|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/153.find_minimum_in_rotated_sorted_array/main.go)|  
 |159|[Longest Substring with At Most Two Distinct Characters :lock:](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/159.longest_substring_with_at_most_two_distinct_characters/main.go)|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/160.intersection_of_two_linked_lists/main.go)|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/162.find_peak_element/main.go)|
