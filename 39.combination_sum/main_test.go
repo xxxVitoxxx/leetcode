@@ -45,4 +45,21 @@ func TestCombinationSum(t *testing.T) {
 
 		})
 	}
+
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			actual := combinationSum2(tt.candidates, tt.target)
+
+			for i := range actual {
+				slices.Sort(actual[i])
+			}
+
+			if len(actual) > 0 && len(tt.expected) > 0 {
+				if !reflect.DeepEqual(actual, tt.expected) {
+					t.Errorf("got: %v, want: %v", actual, tt.expected)
+				}
+			}
+
+		})
+	}
 }
