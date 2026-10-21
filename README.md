@@ -28,6 +28,7 @@
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/31.next_premutation/main.go)|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/33.search_in_rotated_sorted_array/main.go)|  
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|$\color{green}{\textsf{Easy}}$|[Go]()|  
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/39.combination_sum/main.go)|  
 |46|[Permutations](https://leetcode.com/problems/permutations/)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/46.permutations/main.go)|  
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/48.rotate_image/main.go)|  
 |50|[Pow(x,n)](https://leetcode.com/problems/powx-n/)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/50.pow/main.go)|  
