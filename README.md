@@ -136,6 +136,7 @@
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/412.fizz_buzz/main.go)|
 |415|[Add Strings](https://leetcode.com/problems/add-strings)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/415.add_strings/main.go)|
 |417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/417.pacific_atlantic_water_flow/main.go)|  
+|435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/435.non_over_lapping_intervals/main.go)|  
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/437.path_sum_III/main.go)|
 |443|[String Compression](https://leetcode.com/problems/string-compression)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/443.string_compression/main.go)|
 |450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst)|$\color{orange}{\textsf{Medium}}$|[go](https://github.com/xxxVitoxxx/leetcode/blob/main/450.delete_node_in_a_bst/main.go)|
