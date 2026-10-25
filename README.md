@@ -113,6 +113,7 @@
 |271|[Encode and Decode Strings :lock:](https://leetcode.com/problems/encode-and-decode-strings)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/271.encode_and_decode_strings/main.go)|  
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version)|$\color{green}{\textsf{Easy}}$||
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/283.move_zeroes/main.go)|
+|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/300.longest_increasing_subsequence/main.go)|   
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/310.minimum_height_trees/main.go)|   
 |323|[Number of Connected Components in an Undirected Graph :lock:](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/323.number_of_connected_components_in_an_undirected_graph/main.go)|  
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/328.odd_even_linked_list/main.go)|
