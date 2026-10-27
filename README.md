@@ -228,6 +228,7 @@
 |1251|[Average Selling Price](https://leetcode.com/problems/average-selling-price)|$\color{green}{\textsf{Easy}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/1251.average_selling_price/main.sql)|  
 |1268|[Search Suggestions System](https://leetcode.com/problems/search-suggestions-system)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1268.search_suggestions_system/main.go)|  
 |1280|[Students and Examinations](https://leetcode.com/problems/students-and-examinations)|$\color{green}{\textsf{Easy}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/1280.students_and_examinations/main.sql)|  
+|1306|[Jump Game III](https://leetcode.com/problems/jump-game-iii)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1306.jump_game_III/main.go)|  
 |1321|[Restaurant Growth](https://leetcode.com/problems/restaurant-growth)|$\color{orange}{\textsf{Medium}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/1321.restaurant_growth/main.sql)|  
 |1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/1323.maximum_69_number/main.go)|  
 |1327|[List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period)|$\color{green}{\textsf{Easy}}$|[MySQL](https://github.com/xxxVitoxxx/leetcode/blob/main/1327.list_the_products_ordered_in_a_period/main.sql)|  
