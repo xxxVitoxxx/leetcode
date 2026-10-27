@@ -39,6 +39,7 @@
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/submissions)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/54.spiral_matrix/main.go)|  
 |55|[Jump Game](https://leetcode.com/problems/jump-game)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/55.jump_game/main.go)|  
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/56.merge_intervals/main.go)|  
+|57|[Insert Interval](https://leetcode.com/problems/insert-interval)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/57.insert_interval/main.go)|  
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word)|$\color{green}{\textsf{Easy}}$||
 |61|[Rotate List](https://leetcode.com/problems/rotate-list)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/61.rotate_list/main.go)|
 |66|[Plus One](https://leetcode.com/problems/plus-one)|$\color{green}{\textsf{Easy}}$||
