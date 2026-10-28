@@ -49,6 +49,7 @@
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/70.climbing_stairs/main.go)|  
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/73.set_matrix_zeroes/main.go)|  
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/75.sort_colors/main.go)|
+|79|[Word Search](https://leetcode.com/problems/word-search)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/79.word_search/main.go)|  
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|$\color{green}{\textsf{Easy}}$||
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/88.merge_sorted_array/main.go)|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|$\color{green}{\textsf{Easy}}$||
