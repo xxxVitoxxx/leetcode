@@ -42,6 +42,7 @@
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/57.insert_interval/main.go)|  
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word)|$\color{green}{\textsf{Easy}}$||
 |61|[Rotate List](https://leetcode.com/problems/rotate-list)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/61.rotate_list/main.go)|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/62.unique_paths/main.go)|  
 |66|[Plus One](https://leetcode.com/problems/plus-one)|$\color{green}{\textsf{Easy}}$||
 |67|[Add Binary](https://leetcode.com/problems/add-binary)|$\color{green}{\textsf{Easy}}$||
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx)|$\color{green}{\textsf{Easy}}$||
