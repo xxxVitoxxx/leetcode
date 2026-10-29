@@ -31,6 +31,10 @@ func TestRob(t *testing.T) {
 		name:     "example6",
 		nums:     []int{1, 3, 1, 3, 100},
 		expected: 103,
+	}, {
+		name:     "example7",
+		nums:     []int{5, 3},
+		expected: 5,
 	}}
 
 	for _, tt := range tests {
