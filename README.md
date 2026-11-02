@@ -113,6 +113,7 @@
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/230.Kth_smallest_element_in_a_bst/main.go)|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/234.palindrome_linked_list/main.go)|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/234.palindrome_linked_list/main.go)|
+|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/235.lowest_common_ancestor_of_a_binary_search_tree/main.go)|  
 |236|[Lowest Common Ancestor of a Binary tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/236.lowest_common_ancestor_of_a_binary_tree/main.go)|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/238.product_of_array_except_self/main.go)|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/242.valid_anagram/main.go)|
