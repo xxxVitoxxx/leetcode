@@ -72,7 +72,7 @@
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/141.linked_list_cycle/main.go)|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/142.linked_list_cycle_II/main.go)|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/143.recorder_list/main.go)|
-|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|$\color{green}{\textsf{Easy}}$||
+|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|$\color{green}{\textsf{Easy}}$|https://github.com/xxxVitoxxx/leetcode/blob/main/144.binary_tree_preorder_traversal/main.go|  
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)|$\color{green}{\textsf{Easy}}$|https://github.com/xxxVitoxxx/leetcode/blob/main/145.binary_tree_postorder_traversal/main.go|  
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/146.LRU_cache/main.go)|  
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/151.reverse_word_in_string/main.go)|
