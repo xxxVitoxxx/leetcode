@@ -28,4 +28,9 @@ func TestLRUCache(t *testing.T) {
 	if value := obj.Get(4); value != 4 {
 		t.Errorf("got: %v, want: 4", value)
 	}
+
+	obj.Put(4, 10)
+	if value := obj.Get(4); value != 10 {
+		t.Errorf("got: %v, want: 10", value)
+	}
 }
