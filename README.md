@@ -118,6 +118,7 @@
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/238.product_of_array_except_self/main.go)|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/242.valid_anagram/main.go)|
 |246|[Strobogrammatic Number :lock:](https://leetcode.com/problems/strobogrammatic-number)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/246.strobogrammatic_number/main.go)|  
+|252|[Meeting Rooms :lock:](https://leetcode.com/problems/meeting-rooms)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/252.meeting_rooms/main.go)|  
 |253|[Meeting Rooms II :lock:](https://leetcode.com/problems/meeting-rooms-ii)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/253.meeting_rooms_II/main.go)|  
 |258|[Add Digits](https://leetcode.com/problems/add-digits)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/258.add_digits/main.go)|  
 |261|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/261.graph_valid_tree/main.go)|  
