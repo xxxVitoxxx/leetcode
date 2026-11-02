@@ -34,7 +34,7 @@ func TestLowestCommonAncestor(t *testing.T) {
 		q:        &TreeNode{Val: 8},
 		expected: 6,
 	}, {
-		name: "example1",
+		name: "example2",
 		root: &TreeNode{
 			Val: 6,
 			Left: &TreeNode{
@@ -56,7 +56,7 @@ func TestLowestCommonAncestor(t *testing.T) {
 		q:        &TreeNode{Val: 4},
 		expected: 2,
 	}, {
-		name: "example1",
+		name: "example3",
 		root: &TreeNode{
 			Val:  2,
 			Left: &TreeNode{Val: 1},
@@ -64,6 +64,23 @@ func TestLowestCommonAncestor(t *testing.T) {
 		p:        &TreeNode{Val: 2},
 		q:        &TreeNode{Val: 1},
 		expected: 2,
+	}, {
+		name: "example4",
+		root: &TreeNode{
+			Val:  5,
+			Left: &TreeNode{Val: 1},
+			Right: &TreeNode{
+				Val:  8,
+				Left: &TreeNode{Val: 7},
+				Right: &TreeNode{
+					Val:   10,
+					Right: &TreeNode{Val: 15},
+				},
+			},
+		},
+		p:        &TreeNode{Val: 7},
+		q:        &TreeNode{Val: 15},
+		expected: 8,
 	}}
 
 	for _, tt := range tests {
