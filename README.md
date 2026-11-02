@@ -74,6 +74,7 @@
 |143|[Reorder List](https://leetcode.com/problems/reorder-list)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/143.recorder_list/main.go)|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|$\color{green}{\textsf{Easy}}$||
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)|$\color{green}{\textsf{Easy}}$||
+|146|[LRU Cache](https://leetcode.com/problems/lru-cache)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/146.LRU_cache/main.go)|  
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/151.reverse_word_in_string/main.go)|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/152.maximum_product_subarray/main.go)|  
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/153.find_minimum_in_rotated_sorted_array/main.go)|  
