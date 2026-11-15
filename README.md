@@ -56,6 +56,7 @@
 |86|[Partition List](https://leetcode.com/problems/partition-list)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/86.partition_list/main.go)|  
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/88.merge_sorted_array/main.go)|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/91.decode_ways/main.go)|  
+|92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/92.reverse_linked_list_II/main.go)|  
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|$\color{green}{\textsf{Easy}}$||
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/98.validate_binary_search_tree/main.go)|
 |100|[Same Tree](https://leetcode.com/problems/same-tree)|$\color{green}{\textsf{Easy}}$|[GO](https://github.com/xxxVitoxxx/leetcode/blob/main/100.same_tree/main.go)|
