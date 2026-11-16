@@ -97,6 +97,9 @@ func order(root *Node) []string {
 			curr := queue[i]
 
 			result = append(result, strconv.Itoa(curr.Val))
+			if curr.Next == nil {
+				result = append(result, "#")
+			}
 
 			if curr.Left != nil {
 				queue = append(queue, curr.Left)
@@ -106,8 +109,6 @@ func order(root *Node) []string {
 				queue = append(queue, curr.Right)
 			}
 		}
-
-		result = append(result, "#")
 
 		queue = queue[size:]
 	}
