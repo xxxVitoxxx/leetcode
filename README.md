@@ -65,6 +65,7 @@
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/104.maximum_depth_of_binary_tree/main.go)|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/105.construct_binary_tree_from_preorder_and_inorder_traversal/main.go)|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)|$\color{green}{\textsf{Easy}}$||
+|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/116.populating_next_right_pointers_in_each_node/main.go)|  
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/118.pascals_triangle/main.go)|  
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/119.pascals_triangle_II/main.go)|  
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/121.best_time_to_buy_and_sell_stock/main.go)|  
