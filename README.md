@@ -22,6 +22,7 @@
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/19.remove_nth_node_from_end_of_list/main.go)|  
 |20|[Valid Parentheses]()|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/20.valid_parentheses/main.go)|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/21.merge_two_sorted_lists/main.go)|  
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/22.generate_parentheses/main.go)|  
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)|$\color{red}{\textsf{Hard}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/23.merge_k_sorted_lists/main.go)|  
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/24.swap_nodes_in_pairs/main.go)|  
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/26.remove_duplicates_from_sorted_array/main.go)|
