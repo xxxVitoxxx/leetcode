@@ -10,6 +10,7 @@
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/2.add_two_numbers/main.go)|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/3.longest_substring_without_repeating_characters/main.go)|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/5.longest_palindromic_substring/main.go)|   
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/7.reverse_integer/main.go)|   
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/9.palindrome_number/main.go)|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/11.container_with_most_water/main.go)|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|$\color{green}{\textsf{Easy}}$||
