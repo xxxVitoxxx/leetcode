@@ -30,7 +30,7 @@
 |28|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/28.find_the_index_of_the_first_occurrence_in_a_string/main.go)|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/31.next_premutation/main.go)|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/33.search_in_rotated_sorted_array/main.go)|  
-|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|$\color{green}{\textsf{Easy}}$|[Go]()|  
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/35.search_insert_position/main.go)|  
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/39.combination_sum/main.go)|  
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/45.jump_game_II/main.go)|  
 |46|[Permutations](https://leetcode.com/problems/permutations/)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/46.permutations/main.go)|  
