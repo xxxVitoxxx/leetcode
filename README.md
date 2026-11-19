@@ -34,6 +34,7 @@
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/36.valid_sudoku/main.go)|  
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/39.combination_sum/main.go)|  
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/40.combination_sum_II/main.go)|  
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/43.multiply_strings/main.go)|  
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/45.jump_game_II/main.go)|  
 |46|[Permutations](https://leetcode.com/problems/permutations/)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/46.permutations/main.go)|  
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/48.rotate_image/main.go)|  
