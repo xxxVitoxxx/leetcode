@@ -18,6 +18,11 @@ func TestAddBinary(t *testing.T) {
 		a:        "1010",
 		b:        "1011",
 		expected: "10101",
+	}, {
+		name:     "example3",
+		a:        "1001",
+		b:        "1",
+		expected: "1010",
 	}}
 
 	for _, tt := range tests {
