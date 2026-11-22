@@ -40,4 +40,13 @@ func TestPlusOne(t *testing.T) {
 			}
 		})
 	}
+
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			got := plusOne2(tt.digits)
+			if !reflect.DeepEqual(tt.expected, got) {
+				t.Errorf("got %v, want %v", got, tt.expected)
+			}
+		})
+	}
 }
