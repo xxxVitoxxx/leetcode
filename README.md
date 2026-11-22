@@ -49,8 +49,8 @@
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word)|$\color{green}{\textsf{Easy}}$||
 |61|[Rotate List](https://leetcode.com/problems/rotate-list)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/61.rotate_list/main.go)|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/62.unique_paths/main.go)|  
-|66|[Plus One](https://leetcode.com/problems/plus-one)|$\color{green}{\textsf{Easy}}$|https://github.com/xxxVitoxxx/leetcode/blob/main/66.plus_one/main.go|  
-|67|[Add Binary](https://leetcode.com/problems/add-binary)|$\color{green}{\textsf{Easy}}$||
+|66|[Plus One](https://leetcode.com/problems/plus-one)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/66.plus_one/main.go)|  
+|67|[Add Binary](https://leetcode.com/problems/add-binary)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/67.add_binary/main.go)|  
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx)|$\color{green}{\textsf{Easy}}$||
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/70.climbing_stairs/main.go)|  
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/73.set_matrix_zeroes/main.go)|  
