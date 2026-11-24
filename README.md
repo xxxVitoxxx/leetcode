@@ -55,6 +55,7 @@
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|$\color{green}{\textsf{Easy}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/70.climbing_stairs/main.go)|  
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/72.edit_distance/main.go)|  
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/73.set_matrix_zeroes/main.go)|  
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/74.search_a_2D_matrix/main.go)|  
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/75.sort_colors/main.go)|
 |79|[Word Search](https://leetcode.com/problems/word-search)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/79.word_search/main.go)|  
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)|$\color{orange}{\textsf{Medium}}$|[Go](https://github.com/xxxVitoxxx/leetcode/blob/main/82.remove_duplicates_from_sorted_list_II/main.go)|  
