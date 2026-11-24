@@ -14,6 +14,14 @@ func TestSubsetsWithDup(t *testing.T) {
 		name:     "example1",
 		nums:     []int{1, 2, 2},
 		expected: [][]int{{}, {1}, {1, 2}, {1, 2, 2}, {2}, {2, 2}},
+	}, {
+		name:     "example2",
+		nums:     []int{0},
+		expected: [][]int{{}, {0}},
+	}, {
+		name:     "example3",
+		nums:     []int{4, 4, 4, 1, 4},
+		expected: [][]int{{}, {1}, {1, 4}, {1, 4, 4}, {1, 4, 4, 4}, {1, 4, 4, 4, 4}, {4}, {4, 4}, {4, 4, 4}, {4, 4, 4, 4}},
 	}}
 
 	for _, tt := range tests {
